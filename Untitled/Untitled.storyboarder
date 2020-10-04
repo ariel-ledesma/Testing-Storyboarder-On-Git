@@ -1,0 +1,18 @@
+{
+  "version": "2.0.1",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "HL7GW",
+      "url": "board-1-HL7GW.png",
+      "newShot": false,
+      "lastEdited": 1601770403891,
+      "layers": {},
+      "number": 1,
+      "shot": "1A",
+      "time": 0
+    }
+  ]
+}
